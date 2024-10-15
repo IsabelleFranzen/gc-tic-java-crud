@@ -1,4 +1,4 @@
-package com.consumption.crud.models;
+package com.consumption.crud.ProjetoGuiado.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;

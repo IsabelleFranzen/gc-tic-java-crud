@@ -1,7 +1,7 @@
-package com.consumption.crud.controllers;
+package com.consumption.crud.ProjetoGuiado.controllers;
 
-import com.consumption.crud.models.PessoaModel;
-import com.consumption.crud.repositories.PessoaRepository;
+import com.consumption.crud.ProjetoGuiado.models.PessoaModel;
+import com.consumption.crud.ProjetoGuiado.repositories.PessoaRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
